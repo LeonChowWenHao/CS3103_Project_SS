@@ -1,5 +1,5 @@
 # Use pip3 for python3 and pip for older versions
-# Install python3-pip using 'sudo apt install pythong3-pip'
+# Install python3-pip using 'sudo apt install python3-pip'
 # Install using 'sudo pip3 install pyscreenshot'
 import pyscreenshot
 import os
