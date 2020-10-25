@@ -30,8 +30,6 @@ class Main:
             
     def main(self):
     
-        global exam_ended
-    
         interval = 10
 
         t4 = threading.Thread(target=screenshotFunc, args=[interval], daemon=True)
